@@ -1,0 +1,7 @@
+{
+  "GrowthMutations": [
+    { "Type": "None", "Multiplier": 1 },
+    { "Type": "Golden", "Multiplier": 25 },
+    { "Type": "Rainbow", "Multiplier": 50 }
+  ]
+}

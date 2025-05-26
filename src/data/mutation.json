@@ -1,0 +1,15 @@
+{
+  "MutationStackBonuses": [
+    { "Mutation": "Default", "StackBonus": 0 },
+    { "Mutation": "Wet", "StackBonus": 1 },
+    { "Mutation": "Chilled", "StackBonus": 1 },
+    { "Mutation": "Chocolate", "StackBonus": 1 },
+    { "Mutation": "Moonlit", "StackBonus": 1 },
+    { "Mutation": "Bloodlit", "StackBonus": 3 },
+    { "Mutation": "Frozen", "StackBonus": 9 },
+    { "Mutation": "Zombified", "StackBonus": 24 },
+    { "Mutation": "Shocked", "StackBonus": 99 },
+    { "Mutation": "Celestial", "StackBonus": 119 },
+    { "Mutation": "Disco", "StackBonus": 124 }
+  ]
+}
