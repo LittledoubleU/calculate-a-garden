@@ -1,6 +1,5 @@
 {
   "MutationStackBonuses": [
-    { "Mutation": "Default", "StackBonus": 0 },
     { "Mutation": "Wet", "StackBonus": 1 },
     { "Mutation": "Chilled", "StackBonus": 1 },
     { "Mutation": "Chocolate", "StackBonus": 1 },
