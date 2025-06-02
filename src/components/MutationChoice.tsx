@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 interface myProps {
     label: string | number;
     checked: boolean;

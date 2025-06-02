@@ -5,10 +5,13 @@
     { "Mutation": "Chocolate", "StackBonus": 1 },
     { "Mutation": "Moonlit", "StackBonus": 1 },
     { "Mutation": "Bloodlit", "StackBonus": 3 },
+    { "Mutation": "Plasma", "StackBonus": 4 },
+    { "Mutation": "Honey Glazed", "StackBonus": 4 },
     { "Mutation": "Frozen", "StackBonus": 9 },
     { "Mutation": "Zombified", "StackBonus": 24 },
     { "Mutation": "Shocked", "StackBonus": 99 },
     { "Mutation": "Celestial", "StackBonus": 119 },
-    { "Mutation": "Disco", "StackBonus": 124 }
+    { "Mutation": "Disco", "StackBonus": 124 },
+    { "Mutation": "Voidtouched", "StackBonus": 134 }
   ]
 }
